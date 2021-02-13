@@ -1,2 +1,0 @@
-# AngularSample
-Single page application
